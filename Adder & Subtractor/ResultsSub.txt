@@ -1,0 +1,13 @@
+Test Failed Expected Result = caa33fff, Obtained result = caa34000, Test Number ->       16511
+Test Failed Expected Result = cac08fff, Obtained result = cac09000, Test Number ->       27232
+Test Failed Expected Result = 4b02bfff, Obtained result = 4b02c000, Test Number ->       27825
+Test Failed Expected Result = 4a9c2fff, Obtained result = 4a9c3000, Test Number ->       34117
+Test Failed Expected Result = cafef7ff, Obtained result = cafef800, Test Number ->       36009
+Test Failed Expected Result = ca4447ff, Obtained result = ca444800, Test Number ->       44682
+Test Failed Expected Result = 4a679fff, Obtained result = 4a67a000, Test Number ->       48873
+Test Failed Expected Result = 4ad487ff, Obtained result = 4ad48800, Test Number ->       51456
+Test Failed Expected Result = c9c90fff, Obtained result = c9c91000, Test Number ->       52898
+Test Failed Expected Result = 4a47f7ff, Obtained result = 4a47f800, Test Number ->       56482
+Test Failed Expected Result = cb19dfff, Obtained result = cb19e000, Test Number ->       61435
+Test Failed Expected Result = 4b0a3000, Obtained result = 4b0a2fff, Test Number ->       97817
+Completed      100000 tests,       99988 passes and          12 fails.
