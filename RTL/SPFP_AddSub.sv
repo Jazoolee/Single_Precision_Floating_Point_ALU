@@ -2,7 +2,6 @@ module SPFP_AddSub(
 	input logic [31:0] n1,
 	input logic [31:0] n2,
 	input logic add_or_sub, // 1:add, 0:sub
-	//input logic clk,
 	output logic [31:0] z	
 	);
 
